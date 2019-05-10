@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">TextToSpeechAndroidApp</string>
+    <string name="main_title_txt">الرئيسية</string>
+    <string name="clear_txt">مسح</string>
+    <string name="read_txt">قراءة</string>
+    <string name="write_txt">أكتب هنا...</string>
+    <string name="designed_by_txt">مصمم بواسطة</string>
+    <string name="my_name_txt">كريم على شطا</string>
+    <string name="symbols_txt">الرموز</string>
+    <string name="symbols_TV_txt">
+        mm
+    </string>
+    <string name="symbols_title_txt">معادلات و رموز رياضية</string>
+
 </resources>

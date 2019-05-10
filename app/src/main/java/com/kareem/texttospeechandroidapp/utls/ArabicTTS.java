@@ -7,7 +7,7 @@ import android.speech.tts.TextToSpeech;
 import java.util.Locale;
 
 /**
- * Created by karrar on 7/21/17.
+ * Created by kareem shata
  */
 
 public class ArabicTTS {
