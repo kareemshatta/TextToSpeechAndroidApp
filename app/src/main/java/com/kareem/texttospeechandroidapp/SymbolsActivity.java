@@ -28,7 +28,12 @@ public class SymbolsActivity extends AppCompatActivity {
                 "(X &#8745; Y)  <br/> " +
                 "&#131;(g &#8729; m)" ;
 
-        symbols_tv.setText(Html.fromHtml(htmlStringWithMathSymbols));
+        symbols_tv.setText(Html.fromHtml(htmlStringWithMathSymbols)+
+                "\n\n\n"+
+                " نها (س + ص + 1)  \n" +
+                "س -> "+Html.fromHtml("&#8734;")+"            \n\n"+
+                "د(س) = س + 1 \n\n"
+                );
 
     }
 }
