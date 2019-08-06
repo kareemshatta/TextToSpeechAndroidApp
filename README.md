@@ -8,4 +8,4 @@ This app also support arabic language with a good accent.
 
 screenshot:
 
-![](screenshot%20appScreen.jpg)
+![](screenshot/appScreen.jpg)
